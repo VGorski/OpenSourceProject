@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="OneRepublic.png"><SubTexture name="OneRepublic idle0000" x="0" y="0" width="46" height="122" frameX="0" frameY="0" frameWidth="46" frameHeight="122" />
+<SubTexture name="OneRepublic idle0001" x="46" y="0" width="46" height="122" frameX="0" frameY="0" frameWidth="46" frameHeight="122" />
+<SubTexture name="OneRepublic idle0002" x="0" y="122" width="46" height="122" frameX="0" frameY="0" frameWidth="46" frameHeight="122" />
+<SubTexture name="OneRepublic idle0003" x="46" y="122" width="46" height="122" frameX="0" frameY="0" frameWidth="46" frameHeight="122" />
+<SubTexture name="OneRepublic idle0004" x="0" y="244" width="46" height="122" frameX="0" frameY="0" frameWidth="46" frameHeight="122" />
+</TextureAtlas>
