@@ -2,8 +2,8 @@ Mod Creator: Victoria Gorski
 Date: 12 / 19 / 21
 CSC375 Open - Source Project
 
-Special thanks to the creator of the Kade Engine which makes Friday Night Funkin easier to mod and run the
-more smoothly than the original 
+Special thanks to the creator of the Kade Engine which makes Friday Night Funkin easier to mod and run
+more smoothly than the original. You can find the repository here: https://github.com/KadeDev/Kade-Engine. 
 
 There weren't that many files I had to modify to put the mod in, but here is the list of the files I did 
 modify:
